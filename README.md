@@ -10,6 +10,7 @@ int main()
 		num++;
 	}
 	cout<<endl;
+ <br>
 	return 0;
 }
 //this is my first github work
